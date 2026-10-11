@@ -72,7 +72,7 @@ mamba@github:~$ echo $MOTTO
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mambaisgod-69&bg_color=0d1117&color=c9d1d9&line=888888&point=ffffff&area=true&area_color=404040&hide_border=true" width="100%" alt="GitHub activity graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mambaisgod-69&theme=github-compact&hide_border=true&bg_color=0d1117&color=ffffff&line=aaaaaa&point=ffffff&area=true&area_color=444444" width="95%" alt="GitHub Activity Graph"/>
 
 <sub>Actual GitHub activity — grows as projects and commits go public.</sub>
 
