@@ -1,23 +1,28 @@
+
 <div align="center">
 
-<img src="./assets/mamba-header.svg" width="100%" alt="MAMBA — Software developer and builder" />
+<img src="./assets/mamba-header.svg" width="100%" alt="MAMBA Developer Banner"/>
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2700&pause=1000&color=C7C7C7&center=true&vCenter=true&width=620&height=36&lines=BUILDING+PRODUCTS%2C+NOT+JUST+PROJECTS.;FULL-STACK+%2F+AI+%2F+AUTOMATION;THINK.+DESIGN.+SHIP.+ITERATE.)](https://git.io/typing-svg)
+**THINK. DESIGN. SHIP. ITERATE.**
 
-**Independent developer** &nbsp;·&nbsp; **Software engineering** &nbsp;·&nbsp; **AI & automation**
+<sub>Independent Developer · Software Engineering · AI & Automation</sub>
 
-[![Profile](https://img.shields.io/badge/GITHUB-mambaisgod--69-171717?style=flat-square&logo=github&logoColor=white)](https://github.com/mambaisgod-69)
-![Focus](https://img.shields.io/badge/FOCUS-REAL_WORLD_SOFTWARE-171717?style=flat-square)
+<br/><br/>
+
+<img src="https://img.shields.io/badge/STATUS-BUILDING-181818?style=flat-square&labelColor=000000&color=555555" alt="Building"/>
+<img src="https://img.shields.io/badge/FOCUS-REAL_WORLD_SOFTWARE-181818?style=flat-square&labelColor=000000&color=555555" alt="Focus"/>
 
 </div>
 
 <br/>
 
+---
+
 ### `01 / IDENTITY`
 
-```console
+```bash
 mamba@github:~$ whoami
 > Developer building thoughtful software for real-world problems.
 
@@ -28,15 +33,23 @@ mamba@github:~$ echo $MOTTO
 > Less noise. More building.
 ```
 
+<br/>
+
 ### `02 / CURRENTLY BUILDING`
 
-<a href="https://github.com/mambaisgod-69?tab=repositories">
-  <img src="./assets/vyapaar-next.svg" width="100%" alt="Vyapaar Next featured project: in progress" />
-</a>
+<div align="center">
 
-<sub>**VYAPAAR NEXT** — An offline-first billing and business management system, designed around local data, accounting, inventory and future-ready sync boundaries. In development; repository/demo link to follow.</sub>
+<img src="./assets/vyapaar-next.svg" width="100%" alt="Vyapaar Next Project"/>
 
-<br/><br/>
+</div>
+
+**VYAPAAR NEXT** — An offline-first billing and business management system, designed around local data, accounting, inventory and future-ready sync boundaries.
+
+`LOCAL FIRST` · `MODULAR CORE` · `CLOUD READY`
+
+**Status:** `IN PROGRESS`
+
+<br/>
 
 ### `03 / PROJECT INDEX`
 
@@ -45,7 +58,7 @@ mamba@github:~$ echo $MOTTO
 | **Vyapaar Next** | Offline-first billing, accounting & inventory | `IN PROGRESS` |
 | **JARVIS AI** | Desktop and web AI assistant | `IN PROGRESS` |
 | **Photo Vault** | Modern photo management | `IN PROGRESS` |
-| **Attendance OS** | Employee attendance & workforce management | **`COMPLETED`** |
+| **Attendance OS** | Employee attendance & workforce management | `COMPLETED` |
 
 <sub>Projects listed reflect personal work. Public source, screenshots and demos will be linked when ready; some implementation details may remain private.</sub>
 
@@ -55,14 +68,14 @@ mamba@github:~$ echo $MOTTO
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-171717?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-171717?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-171717?style=for-the-badge&logo=javascript&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-171717?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-171717?style=for-the-badge&logo=react&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-171717?style=for-the-badge&logo=flutter&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-171717?style=for-the-badge&logo=mongodb&logoColor=white)
-![Git](https://img.shields.io/badge/Git-171717?style=for-the-badge&logo=git&logoColor=white)
+<img src="https://img.shields.io/badge/PYTHON-181818?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/TYPESCRIPT-181818?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+<img src="https://img.shields.io/badge/JAVASCRIPT-181818?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/NEXT.JS-181818?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
+<img src="https://img.shields.io/badge/REACT-181818?style=for-the-badge&logo=react&logoColor=white" alt="React"/>
+<img src="https://img.shields.io/badge/FLUTTER-181818?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
+<img src="https://img.shields.io/badge/MONGODB-181818?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+<img src="https://img.shields.io/badge/GIT-181818?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
 
 </div>
 
@@ -72,17 +85,29 @@ mamba@github:~$ echo $MOTTO
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mambaisgod-69&theme=github-compact&hide_border=true&bg_color=0d1117&color=ffffff&line=aaaaaa&point=ffffff&area=true&area_color=444444" width="95%" alt="GitHub Activity Graph"/>
+#### REAL CODE. REAL PROGRESS.
 
-<sub>Actual GitHub activity — grows as projects and commits go public.</sub>
+*Every commit is another step forward.*
+
+<a href="https://github.com/mambaisgod-69">
+<img src="https://img.shields.io/badge/VIEW_MY_CONTRIBUTIONS-FFFFFF?style=for-the-badge&logo=github&logoColor=000000" alt="GitHub Contributions"/>
+</a>
+
+<br/><br/>
+
+<sub>BUILDING CONSISTENTLY · ONE COMMIT AT A TIME</sub>
 
 </div>
 
 <br/>
 
+---
+
 <div align="center">
 
-<img src="./assets/mamba-footer.svg" width="100%" alt="MAMBA — Think. Build. Improve." />
+<img src="./assets/mamba-footer.svg" width="100%" alt="MAMBA — Think. Build. Improve."/>
+
+<br/>
 
 <sub>© 2026 MAMBA · <a href="https://github.com/mambaisgod-69">@mambaisgod-69</a></sub>
 
