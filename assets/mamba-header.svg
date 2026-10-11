@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="320" viewBox="0 0 1100 320" role="img" aria-label="MAMBA. Developer identity">
+<rect width="1100" height="320" rx="12" fill="#0b0b0c"/>
+<g opacity=".18" stroke="#555" stroke-width="1"><path d="M0 60H1100M0 120H1100M0 180H1100M0 240H1100M0 300H1100"/><path d="M70 0V320M170 0V320M270 0V320M370 0V320M470 0V320M570 0V320M670 0V320M770 0V320M870 0V320M970 0V320"/></g>
+<path d="M35 35H130M35 35V95M1065 225V285H970" stroke="#aaa" stroke-width="2" fill="none"/>
+<text x="55" y="70" font-family="monospace" font-size="13" fill="#8d8d8d" letter-spacing="3">DEVELOPER / 001</text>
+<text x="550" y="176" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="113" font-weight="800" letter-spacing="18" fill="#f7f7f7">MAMBA.</text>
+<rect x="373" y="195" width="354" height="1" fill="#777"/>
+<text x="550" y="224" text-anchor="middle" font-family="monospace" font-size="14" letter-spacing="4" fill="#d0d0d0">DESIGN  /  DEVELOP  /  DEPLOY</text>
+<text x="55" y="282" font-family="monospace" font-size="12" fill="#777">EST. 2026</text>
+<text x="1040" y="282" text-anchor="end" font-family="monospace" font-size="12" fill="#777">@mambaisgod-69</text>
+</svg>
